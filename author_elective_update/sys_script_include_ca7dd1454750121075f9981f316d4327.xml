@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="DELETE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_58872_needit.GetEmailAddress</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description>Script Include to return an email address. The calling client-side script passes a sys_id for a User table record.</description>
+        <name>GetEmailAddress</name>
+        <script/>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-26 20:21:00</sys_created_on>
+        <sys_id>ca7dd1454750121075f9981f316d4327</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GetEmailAddress</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_script_include_ca7dd1454750121075f9981f316d4327</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-26 20:21:00</sys_updated_on>
+    </sys_script_include>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>300de492dbaef110199b1729139619ff</instance_id>
+        <instance_name>dev216223</instance_name>
+        <name>sys_script_include_ca7dd1454750121075f9981f316d4327</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include"><sys_script_include action="INSERT_OR_UPDATE"><access>package_private</access><active>true</active><api_name>x_58872_needit.GetEmailAddress</api_name><caller_access/><client_callable>false</client_callable><description>Script Include to return an email address. The calling client-side script passes a sys_id for a User table record.</description><name>GetEmailAddress</name><script/><sys_class_name>sys_script_include</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-08-26 20:21:00</sys_created_on><sys_id>ca7dd1454750121075f9981f316d4327</sys_id><sys_mod_count>0</sys_mod_count><sys_name>GetEmailAddress</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_script_include_ca7dd1454750121075f9981f316d4327</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-08-26 20:21:00</sys_updated_on></sys_script_include></record_update>]]></payload>
+        <payload_hash>-80341749</payload_hash>
+        <record_name>GetEmailAddress</record_name>
+        <reverted_from/>
+        <source>8c88118b4763021075f9981f316d435a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-26 20:21:00</sys_created_on>
+        <sys_id>8f6e11854750121075f9981f316d43f9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>191905959460000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-26 20:21:00</sys_updated_on>
+        <type>Script Include</type>
+        <update_guid>c36e1185615012104721e7a47ed0ebf9</update_guid>
+        <update_guid_history>c36e1185615012104721e7a47ed0ebf9:-80341749</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-26 20:23:54</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_include">sys_script_include</sys_db_object>
+        <sys_id>47f5659b2bc54b08a6ce5169666d5a90</sys_id>
+        <sys_metadata>ca7dd1454750121075f9981f316d4327</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GetEmailAddress</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_script_include_ca7dd1454750121075f9981f316d4327</sys_update_name>
+        <sys_update_version display_value="sys_script_include_ca7dd1454750121075f9981f316d4327">8f6e11854750121075f9981f316d43f9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-26 20:23:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
